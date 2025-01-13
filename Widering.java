@@ -1,7 +1,7 @@
 public class Widering{
     public static void main(String args[]){
         int MyInt =10;
-        double MyDouble = MyInt;  // Automatically casting Int to Double ;
+        double MyDouble = MyInt;  // Automatic casting Int to Double ;
 
         System.out.println("Before Converting to Type Casting");
         System.out.println(MyInt);
